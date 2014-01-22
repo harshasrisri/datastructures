@@ -13,7 +13,6 @@ In this program, we have a corpus file that contains ~3300 unique words repeatin
 >
 >3363
 >
->
 >real    0m0.080s
 >
 >user    0m0.108s
